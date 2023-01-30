@@ -5,18 +5,18 @@ export default function About() {
     <section id="About Me">
       <div class="grid-container">
         <div class="row">
-          <div class="card">
+          <div class="card justify-content-center">
             <h1>About Me</h1>
-            <img src="idk.jpg" />
+            <img src="idk.jpg" id="image"/>
 
             <h1>My Name is Yorlan Ramirez</h1>
 
             <p>
               I'm currently a student at Rutger's Coding BootCamp for Full-Stack
-              Web Development.
+              Web Development, excited to begin my adventure as a Software Developer.
             </p>
 
-            <p>I'm a very passionate indiviual when it comes to Technology.</p>
+            <p>I'm a very passionate individual when it comes to Technology.</p>
 
             <p>
               Working in the Automotive Industry as a Technician has prepared me
@@ -26,7 +26,7 @@ export default function About() {
 
             <p>
               Adaptivity and quick learning are my strongest features in any
-              type off environment.
+              type of environment.
             </p>
           </div>
         </div>
