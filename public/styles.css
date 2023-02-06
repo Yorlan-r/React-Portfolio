@@ -18,6 +18,17 @@ html {
   background-color: rgb(7, 19, 11);
   background-image: url(./hero.3795777.jpg);
 }
+footer {
+  background-color: black;
+  color: white;
+  height: 5vh;
+  text-align: center;
+
+}
+i {
+  padding: 10px;
+  font-size: 25px;
+}
 .nav-tabs {
   background-color:rgb(7, 19, 11);
   color: white;
@@ -101,6 +112,7 @@ nav .nav li a:hover {
   /* margin: 10px 20px; */
   background: black;
   box-shadow: #2ec771;
+  margin-bottom: 20px;
 }
 a {
   color: white;

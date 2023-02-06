@@ -6,14 +6,11 @@ export default function Home() {
       <div class="grid-container">
         <div class="card">
           <h3>Resume</h3>
+          
           <p>
-            Automotive Technician at Hudson Toyota: April 1st 2013 - June 30th
-            2021.
+            Click <a href="Resume.pdf" target="_blank">here</a> to view Resume!
           </p>
-          <p>
-            Automotive Technician at Prestige Lexus of Ramsey: July 5th 2021 -
-            Present.
-          </p>
+          
         </div>
       </div>
     </section>
