@@ -6,6 +6,12 @@ This is my work portfolio, this version was created using React.js
 This was a really good exercise to showcase my ability using React.js
 The few problems i was having was primarily due to styling, using Bootstrap greatly helped. 
 
+# Usage
+Clone the repository
+In the CLI
+"npm install"
+"npm start"
+
 # License
 
 MIT
