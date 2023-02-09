@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BReact-Portfolio%7D/static/css/main.c2cab247.css",
+    "main.js": "/%7BReact-Portfolio%7D/static/js/main.af29ee64.js",
+    "index.html": "/%7BReact-Portfolio%7D/index.html",
+    "main.c2cab247.css.map": "/%7BReact-Portfolio%7D/static/css/main.c2cab247.css.map",
+    "main.af29ee64.js.map": "/%7BReact-Portfolio%7D/static/js/main.af29ee64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.af29ee64.js"
+  ]
+}
