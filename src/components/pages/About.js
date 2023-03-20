@@ -7,13 +7,14 @@ export default function About() {
         <div class="row">
           <div class="card justify-content-center">
             <h1>About Me</h1>
-            <img src="idk.jpg" id="image"/>
+            <img src="idk.jpg" id="image" />
 
             <h1>My Name is Yorlan Ramirez</h1>
 
             <p>
-              I'm currently a student at Rutger's Coding BootCamp for Full-Stack
-              Web Development, excited to begin my adventure as a Software Developer.
+              I'm a graduate from Rutger's Coding BootCamp for Full-Stack Web
+              Development, excited to begin my adventure as a Software
+              Developer.
             </p>
 
             <p>I'm a very passionate individual when it comes to Technology.</p>
