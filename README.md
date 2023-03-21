@@ -11,12 +11,8 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-# Usage
-Clone the repository
-In the CLI run the following commands
-"npm install"
-"npm start"
-
+# Portfolio Link
+https://yorlan-r.github.io/React-Portfolio/
 
 # License
 
